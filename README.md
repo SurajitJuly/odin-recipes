@@ -1,1 +1,3 @@
 # odin-recipes
+
+I created this repository using github, and after that I copied it using the ssh key using the git clone feature. I also used my mac terminal for cd into the repos folder where I need to enter this project. And after I cd in the repos folder in the terminal where I pasted the ssh key along with git clone which is (git@github.com:SurajitJuly/odin-recipes.git) which cloned the repository in my mac. After that I cd into it and launched my code editor using the (code .) command in the terminal which opened my code editor for editing my readme file.
