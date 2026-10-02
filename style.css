@@ -1,9 +1,26 @@
 * {
     margin: 10px;
     padding: 10px;
-    padding-bottom: 0px;
     box-sizing: border-box;
-    color: #000000;
-    background-color: #f5f5dc;
+    color: #8B9A6E;
+    background-color: #F7F2EB;
     font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+div {
+    background-color: #EAE2D6;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
 }
